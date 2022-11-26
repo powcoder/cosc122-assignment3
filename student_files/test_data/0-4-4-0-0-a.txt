@@ -1,0 +1,19 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+0
+
+4,4,0,0
+enqueue DPP900,48,-448,21
+enqueue KUT444,-5325,-5708,32
+enqueue ECW617,6245,6847,63
+enqueue VGP015,-4246,4239,67
+dequeue DPP900
+dequeue VGP015
+dequeue ECW617
+dequeue KUT444
